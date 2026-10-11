@@ -1,0 +1,4 @@
+/.venv
+/customers.parquet
+/events.csv
+/requirements.txt
